@@ -1,2 +1,5 @@
+ContractPack-RemoteTech 1.0.1
+- Fixed KerbolSat mission so that it can't be completed by only one KerbolSat.
+
 ContractPack-RemoteTech 1.0.0
 - Initial release.
