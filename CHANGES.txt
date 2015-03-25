@@ -4,6 +4,7 @@ ContractPack-RemoteTech 1.1.0
 - Now supports RSS!  Orbits in the Kerbin statellite contract will automatically adjust based on Kerbin's size.
 - Put everything in a contract group and adjusted relative weights of contracts for selection.
 - Adjustments to dish requirements (thanks silentdeth).
+- Reduce requirements for InnerSat and OuterSat contracts coming up.
 - Slight increase to the testing time for Mun/Minmus contracts.
 
 ContractPack-RemoteTech 1.0.2
