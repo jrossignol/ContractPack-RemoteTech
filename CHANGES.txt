@@ -7,6 +7,7 @@ ContractPack-RemoteTech 1.1.0
 - Reduce requirements for InnerSat and OuterSat contracts coming up.
 - Split the coverage of Mun/Minmus from the initial Kerbin relay contract.
 - Slight increase to the testing time for Mun/Minmus contracts.
+- Change convention for contract titles.
 
 ContractPack-RemoteTech 1.0.2
 - Added dish restriction to inital network contract (the range already limited it to dishes anyway).
