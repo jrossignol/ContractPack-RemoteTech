@@ -1,3 +1,6 @@
+ContractPack-RemoteTech 1.1.0
+- Slight increase to the testing time for Mun/Minmus contracts.
+
 ContractPack-RemoteTech 1.0.2
 - Added dish restriction to inital network contract (the range already limited it to dishes anyway).
 - Stopped using obsolete ContractConfigurator parameters.
