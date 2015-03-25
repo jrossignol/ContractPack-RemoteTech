@@ -1,4 +1,5 @@
 ContractPack-RemoteTech 1.1.0
+- Major rebalance of contract rewards.  No science from contracts, reputation is greatly reduced.  Minor changes to funds.
 - Now supports the option of a four satellite starting network (thanks TCFirebird).
 - Now supports RSS!  Orbits in the Kerbin statellite contract will automatically adjust based on Kerbin's size.
 - Put everything in a contract group and adjusted relative weights of contracts for selection.
