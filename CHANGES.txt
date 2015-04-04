@@ -1,3 +1,6 @@
+ContractPack-RemoteTech 1.1.2
+- Bunch of fixes to Kerbin contract (thanks Invader Myk).
+
 ContractPack-RemoteTech 1.1.1
 - Fixed issue where 4-satellite version of Kerbin contract would complete early (thanks SpaceNomad).
 
