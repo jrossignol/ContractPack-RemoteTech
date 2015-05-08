@@ -1,3 +1,6 @@
+ContractPack-RemoteTech 1.1.3
+- Update version to KSP 1.0.2
+
 ContractPack-RemoteTech 1.1.2
 - Bunch of fixes to Kerbin contract (thanks Invader Myk).
 
