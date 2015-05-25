@@ -1,4 +1,5 @@
 ContractPack-RemoteTech 1.1.4
+- Split three and four commsat versions of Kerbin contract up.
 - Fixed location of waypoint in KerbolSat contract (thanks Addesso).
 
 ContractPack-RemoteTech 1.1.3
