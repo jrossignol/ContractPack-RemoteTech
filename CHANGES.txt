@@ -1,3 +1,6 @@
+ContractPack-RemoteTech 1.1.4
+- Fixed location of waypoint in KerbolSat contract (thanks Addesso).
+
 ContractPack-RemoteTech 1.1.3
 - Update version to KSP 1.0.2
 
