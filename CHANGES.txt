@@ -1,5 +1,6 @@
 ContractPack-RemoteTech 1.2.0
 - Added an agency to give the contracts a little more flavour.
+- Update all contracts to support RSS and planet packs.
 
 ContractPack-RemoteTech 1.1.5
 - Made the two versions of the Kerbin commsat contract mutually exclusive.
