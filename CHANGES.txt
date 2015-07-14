@@ -2,7 +2,7 @@ ContractPack-RemoteTech 2.0.0
 - All contracts now support RSS!
 - All contracts now support planet packs!
 - Added an agency to give the contracts a little more flavour.
-- Made the two versions of the Kerbin/Earth commsat contract mutually exclusive.
+- Made the three and four commsat versions of the Kerbin/Earth contract mutually exclusive.
 
 ContractPack-RemoteTech 1.1.4
 - Split three and four commsat versions of Kerbin contract up.
