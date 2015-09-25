@@ -1,3 +1,6 @@
+ContractPack-RemoteTech 2.0.1
+- Remove time requirement for contract for pointing a dish at Mun/Minmus/Moon (thanks OzoneGrif).
+
 ContractPack-RemoteTech 2.0.0
 - All contracts now support RSS!
 - All contracts now support planet packs!
