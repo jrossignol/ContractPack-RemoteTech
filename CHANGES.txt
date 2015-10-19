@@ -1,3 +1,6 @@
+ContractPack-RemoteTech 2.0.2
+- Increased tolerance for geosynchronous orbit in "Everything sat" contract.
+
 ContractPack-RemoteTech 2.0.1
 - Remove time requirement for contract for pointing a dish at Mun/Minmus/Moon (thanks OzoneGrif).
 
