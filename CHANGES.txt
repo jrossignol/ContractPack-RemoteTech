@@ -1,3 +1,6 @@
+ContractPack-RemoteTech 2.2.0
+- Fixed DDS settings on agency icon.
+
 ContractPack-RemoteTech 2.0.2
 - Officially release for KSP 1.1
 - Increased tolerance for geosynchronous orbit in "Everything sat" contract.
