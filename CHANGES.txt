@@ -1,4 +1,4 @@
-ContractPack-RemoteTech 2.2.0
+ContractPack-RemoteTech 2.1.0
 - Rework for Contract Configurator 1.15.x
 - Fixed DDS settings on agency icon.
 
