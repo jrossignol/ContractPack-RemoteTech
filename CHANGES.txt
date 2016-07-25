@@ -1,3 +1,6 @@
+ContractPack-RemoteTech 2.1.1
+- Fixed issue where inner/outer system sat contracts can never be offered.
+
 ContractPack-RemoteTech 2.1.0
 - Rework for Contract Configurator 1.15.x
 - Fixed DDS settings on agency icon.
