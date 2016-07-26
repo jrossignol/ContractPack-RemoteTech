@@ -1,3 +1,6 @@
+ContractPack-RemoteTech 2.1.2
+- Fixed everything sat contract broken in last release (thanks severedsolo).
+
 ContractPack-RemoteTech 2.1.1
 - Fixed issue where inner/outer system sat contracts can never be offered.
 
