@@ -1,3 +1,6 @@
+ContractPack-RemoteTech 2.1.3
+- New logo (thanks rough93).
+
 ContractPack-RemoteTech 2.1.2
 - Fixed everything sat contract broken in last release (thanks severedsolo).
 
