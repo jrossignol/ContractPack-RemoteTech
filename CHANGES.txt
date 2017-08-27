@@ -1,3 +1,6 @@
+ContractPack-RemoteTech 2.1.4
+- Fix contracts to work in latest KSP/Contract Configurator (thanks oroussel).
+
 ContractPack-RemoteTech 2.1.3
 - New logo (thanks rough93).
 - Added loading tip.
